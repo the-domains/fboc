@@ -4,8 +4,15 @@
         <description><![CDATA[FBOC]]></description>
         <link>https://thegrid.ai/fboc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 12:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 12:13:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fboc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58491cdc-2f95-4c53-abf4-e3febe150ed7.jpg" alt="Recording in the SSL G+ 4000 Studios at SAE Institute Madrid">]]></description>
+            <link>https://thegrid.ai/fboc/im-a-self-motivated-and-committed-individual-with-an-abilit/index.html</link>
+            <guid isPermaLink="false">4f529985-6bca-4086-bd17-f2c42f5ddded</guid>
+            <pubDate>Fri, 08 Jul 2016 12:13:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc7fab0a-714f-481a-84f3-55f6f67d5ce8.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/fboc/b2c93ff7-b9a7-474b-b84a-be6189e51675/index.html</link>
             <guid isPermaLink="false">b2c93ff7-b9a7-474b-b84a-be6189e51675</guid>
             <pubDate>Fri, 08 Jul 2016 11:50:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb3fd578-f57f-4370-aa1e-254b517a4c8e.jpg">]]></description>
-            <link>https://thegrid.ai/fboc/e5609b1e-0187-4406-978a-af81d4cb53be/index.html</link>
-            <guid isPermaLink="false">e5609b1e-0187-4406-978a-af81d4cb53be</guid>
-            <pubDate>Fri, 08 Jul 2016 11:50:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
