@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-08T12:13:28.290Z'
+datePublished: '2016-07-08T14:42:36.847Z'
 author: []
-dateModified: '2016-07-08T12:13:00.533Z'
+dateModified: '2016-07-08T14:42:36.030Z'
 title: ''
 description: >-
   I’m a self-motivated and committed individual with an ability to adapt to a
   wide variety of environments.
-starred: false
 sourcePath: >-
   _posts/2016-07-08-im-a-self-motivated-and-committed-individual-with-an-abilit.md
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
