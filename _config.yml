@@ -1,16 +1,16 @@
-layout_spectrum: 0.3014905992895365
-typography_spectrum: 0.793613595655188
+layout_spectrum: 0.5675525174010545
+typography_spectrum: 0.10684755817055702
 color:
-  brandStrength: 0.8643734168726951
-  lightness: 0.7125010003801435
-  saturation: 0.502756446134299
-  rhythmicContrast: 0.7168886607978493
+  brandStrength: 0.5181432156823575
+  lightness: 0.14227487449534237
+  saturation: 0.3238308704458177
+  rhythmicContrast: 0.5501913200132549
   brandColors:
-    - '#FF6138'
-    - '#FFFF9D'
-    - '#BEEB9F'
-    - '#79BD8F'
-    - '#00A388'
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
 name: FBOC Audio Producer/Designer
 analytics:
   twitter: 'https://twitter.com/Balthofficial'
