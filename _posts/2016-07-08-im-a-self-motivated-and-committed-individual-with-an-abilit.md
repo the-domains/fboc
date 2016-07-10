@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-08T14:42:36.847Z'
-author: []
-dateModified: '2016-07-08T14:42:36.030Z'
-title: ''
-description: >-
-  I’m a self-motivated and committed individual with an ability to adapt to a
-  wide variety of environments.
+datePublished: '2016-07-10T20:27:36.136Z'
 sourcePath: >-
   _posts/2016-07-08-im-a-self-motivated-and-committed-individual-with-an-abilit.md
-starred: true
+author: []
+dateModified: '2016-07-10T20:27:35.610Z'
+title: ''
+description: >-
+  I’m a self-motivated and committed individual towards my work, and I have the
+  ability to adapt to all kinds of environments.
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
@@ -19,12 +19,14 @@ _type: Article
 ---
 ![Recording in the SSL G+ 4000 Studios at SAE Institute Madrid](https://the-grid-user-content.s3-us-west-2.amazonaws.com/58491cdc-2f95-4c53-abf4-e3febe150ed7.jpg)
 
-I'm a self-motivated and committed individual with an ability to adapt to a wide variety of environments.
+I'm a self-motivated and committed individual towards my work, and I have the ability to adapt to all kinds of environments.
 
-My passion in life has been technology and communication. Ever since I was a child I have always been very intuitive around computers and found it easy to understand how hardware and software integrate. My inquisitive nature continues to inspire me to learn quickly.
+My passions in life has always been technologies and communication, and since I was a child I have always been very intuitive around computers and found it easy to understand how hardware and software integrates. My inquisitive nature still continues to inspire me every day.
 
-During 2012 I've started my studies in Audio Engineering, developing my skills in Pro-tools, studio recording, mixing and editing sound. Finally in the beginning of 2016 I've finished my education at SAE Institute London with an Audio Production Bachelor Degree.
+I have a diploma in Audio Engineering at SAE Institute in Madrid and a bachelor degree in Audio Production at SAE Institute in London. Those experiences allowed me to develop my skills in studio recording, mixing, sound editing and Pro-tools.
 
-I believe we are all students and teachers in life, regardless of age, beliefs or any other differences. I'm a very enthusiastic person who wants to see a better world and always tries to build good relationships with the people around me.
+I believe that in life we're meant to learn, but also that everyone has something to give, that's why we are all students and teachers, regardless of gender, age, beliefs or any other differences.
 
-I'm a singer songwriter and guitarist as well expressing life through sounds and music.
+I'm a very enthusiast person who believes a better world is possible and is always trying to give the best to build good relationships with the people around me.
+
+I'm a singer, songwriter and a guitarist, and I've found that the best way to express myself, to share to this world is through sounds and music.
