@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-07-10T20:27:36.136Z'
+datePublished: '2016-07-10T20:27:39.034Z'
 sourcePath: >-
   _posts/2016-07-08-im-a-self-motivated-and-committed-individual-with-an-abilit.md
 author: []
-dateModified: '2016-07-10T20:27:35.610Z'
+dateModified: '2016-07-10T20:27:38.537Z'
 title: ''
 description: >-
   I’m a self-motivated and committed individual towards my work, and I have the
   ability to adapt to all kinds of environments.
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
