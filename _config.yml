@@ -1,4 +1,3 @@
-layout_spectrum: 0.5675525174010545
 typography_spectrum: 0.10684755817055702
 color:
   brandStrength: 0.5181432156823575
@@ -11,7 +10,9 @@ color:
     - '#284907'
     - '#382513'
     - '#363942'
-name: FBOC Audio Producer/Designer
+layout_spectrum: 0.5675525174010545
 analytics:
   twitter: 'https://twitter.com/Balthofficial'
   google: UA-80503771-1
+name: FBOC Audio Producer/Designer
+title: FBOC Audio Producer/Designer
