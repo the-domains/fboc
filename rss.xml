@@ -4,7 +4,7 @@
         <description><![CDATA[FBOC Audio Producer/Designer]]></description>
         <link>http://fbocaudio.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 21:32:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 21:32:33 GMT</lastBuildDate>
         <atom:link href="http://fbocaudio.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>http://fbocaudio.com/46e558ea-72e0-4561-af35-2276f0ca81d2/index.html</link>
             <guid isPermaLink="false">46e558ea-72e0-4561-af35-2276f0ca81d2</guid>
             <pubDate>Fri, 08 Jul 2016 19:32:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solstice | Global Game Jam&reg;]]></title>
+            <description><![CDATA[<article><h1>Solstice | Global Game Jam&reg;</h1><p>One hand tied behind my back:Create a game that can be played with only one hand. On mobile just one hand holding and playing at the same time i.e. just play with your thumb. Desktop, mouse only or keyboard only.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1ddc6504438fc9609d174115fb6650ea/noop.jpg?input=http%3A%2F%2Fglobalgamejam.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fgame_sidebar__normal%2Fpublic%2Fgames%2Fteam_pictures%2Fimg_8114_0.jpg%3Fitok%3DDnju9IUe"></article>]]></description>
+            <link>http://globalgamejam.org/2016/games/solstice</link>
+            <guid isPermaLink="false">cfcf4c2f-fe0b-4722-9628-8a0eb13abd14</guid>
+            <pubDate>Tue, 16 Aug 2016 21:32:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Videogame Voice-Overs by FBOC (Balth)]]></title>
