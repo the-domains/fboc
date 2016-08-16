@@ -4,8 +4,15 @@
         <description><![CDATA[FBOC Audio Producer/Designer]]></description>
         <link>http://fbocaudio.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 21:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 21:33:16 GMT</lastBuildDate>
         <atom:link href="http://fbocaudio.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58491cdc-2f95-4c53-abf4-e3febe150ed7.jpg" alt="Recording in the SSL G+ 4000 Studios at SAE Institute Madrid">]]></description>
+            <link>http://fbocaudio.com/im-a-self-motivated-and-committed-individual-towards-my-wor/index.html</link>
+            <guid isPermaLink="false">4f529985-6bca-4086-bd17-f2c42f5ddded</guid>
+            <pubDate>Tue, 16 Aug 2016 21:33:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/36274e16-b9c6-49bb-b4da-5727d42be559.jpg" alt="Recording James Jamp at the SSL 4000 G+">]]></description>
@@ -68,13 +75,6 @@
             <link>http://fbocaudio.com/9e0d38fd-cce0-4f65-bd9e-dbe2c3dfc7f3/index.html</link>
             <guid isPermaLink="false">9e0d38fd-cce0-4f65-bd9e-dbe2c3dfc7f3</guid>
             <pubDate>Fri, 08 Jul 2016 12:10:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e9b6b49-2fa2-4b3b-975d-07624611ab57.jpg">]]></description>
-            <link>http://fbocaudio.com/ec68c3c4-3d4c-4d1d-8f38-0ea7cccd72f7/index.html</link>
-            <guid isPermaLink="false">ec68c3c4-3d4c-4d1d-8f38-0ea7cccd72f7</guid>
-            <pubDate>Fri, 08 Jul 2016 11:58:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
